@@ -1,4 +1,4 @@
-# JSPLIB
+# STEP 1
 
 Benchmark instances for the job-shop scheduling problem (minimizing makespan).
 
@@ -33,3 +33,8 @@ The file `instances.json` has meta-data of each instance as follows.
 ## References
 
 1. https://github.com/tamy0612/JSPLIB.
+
+# STEP 2
+
+This part includes Genetic Algorithm approach towards solving jobshop problem.
+They are found in the Step 3 folder. Instances can be found here : https://github.com/tamy0612/JSPLIB/tree/
